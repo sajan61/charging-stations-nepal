@@ -1,5 +1,15 @@
 [
     {
+        "name": "Tata Service Centre, Sipradi",
+        "city": "Pokhara",
+        "province": "4",
+        "address": "Sipradi Trading Private Limited, Buddhachowk",
+        "telephone": "061-538499",
+        "type": ["car"],
+        "latitude": "28.20689080401483", 
+        "longitude": "83.99580293809196"
+    },
+    {
         "name": "Thapathali EV Showroom",
         "city": "Kathmandu",
         "province": "1",
